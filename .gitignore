@@ -51,3 +51,10 @@ node_modules/
 # IDE-specific
 .idea/
 *.iml
+
+# Git ignore
+.gitignore
+
+# Additional files
+.python-version
+file-structure.txt
