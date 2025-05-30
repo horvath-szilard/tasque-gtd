@@ -15,11 +15,13 @@ Track projects, contexts, and actions with clarity and speed.
 ### Backend
 
 ```bash
+cd backend
 uvicorn app.main:app --reload
 ```
 
 ### Frontend
 
 ```bash
+cd backend
 streamlit run ui/ui.py
 ```
