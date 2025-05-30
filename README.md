@@ -12,6 +12,20 @@ Track projects, contexts, and actions with clarity and speed.
 
 ## How to run
 
+### Prerequisites
+
+**Tasque** is a Python project, in order to run the application you need to install some necessary packages. 
+- Python 3.11.9 or above
+- Python libraries in requirements.txt
+
+### First run
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python3 install -r backend/requirements.txt
+```
+
 ### Backend
 
 ```bash
